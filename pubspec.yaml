@@ -1,0 +1,35 @@
+name: list_view1
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  very_good_analysis: ^3.1.0
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  # flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
